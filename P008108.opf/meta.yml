@@ -1,15 +1,16 @@
-id: opecha:P008108
+id: P008108
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG18530
   title: ཤ་ཟ་མི་རིགས་པའི་ཚུལ་དཀར་ཆོས་ནང་པའི་མཛེས་རྒྱན།
-  volume:
+  author: ''
+  volumes:
     d588f28b4222494d853ec96d3dbc7895:
       image_group_id: I1KG18547
       title: Volume 1 of sha za mi rigs pa'i tshul dkar chos nang pa'i mdzes rgyan/
       volume_number: 1
       total_pages: 112
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཤ་ཟ་མི་རིགས་པའི་ཚུལ་དཀར་ཆོས་ནང་པའི་མཛེས་རྒྱན།
   author: ''
