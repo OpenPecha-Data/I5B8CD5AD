@@ -5,11 +5,12 @@ source_metadata:
   title: ཤ་ཟ་མི་རིགས་པའི་ཚུལ་དཀར་ཆོས་ནང་པའི་མཛེས་རྒྱན།
   author: ''
   volumes:
-    2452c4886c1d4bbfb0540c57b9940833:
+    d588f28b4222494d853ec96d3dbc7895:
       image_group_id: I1KG18547
-      title: ''
+      title: Volume 1 of sha za mi rigs pa'i tshul dkar chos nang pa'i mdzes rgyan/
       volume_number: 1
       total_pages: 112
+      base_file: v001.txt
 ebook_metadata:
   title: ཤ་ཟ་མི་རིགས་པའི་ཚུལ་དཀར་ཆོས་ནང་པའི་མཛེས་རྒྱན།
   author: ''
