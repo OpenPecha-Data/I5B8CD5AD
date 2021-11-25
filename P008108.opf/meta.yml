@@ -1,5 +1,7 @@
 id: P008108
 initial_creation_type: ocr
+created_at: 26/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1KG18530
   title: ཤ་ཟ་མི་རིགས་པའི་ཚུལ་དཀར་ཆོས་ནང་པའི་མཛེས་རྒྱན།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 112
       base_file: v001.txt
-ebook_metadata:
-  title: ཤ་ཟ་མི་རིགས་པའི་ཚུལ་དཀར་ཆོས་ནང་པའི་མཛེས་རྒྱན།
-  author: ''
-  sku: P008108
-  cover: cover.jpg
-  layers:
-  - pagination
